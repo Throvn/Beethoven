@@ -1,0 +1,15 @@
+{
+  "originHash" : "81a580f4838dca829fa11c02976be96610ec601b2df7025e3b086fc77a30f957",
+  "pins" : [
+    {
+      "identity" : "pitchy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Throvn/Pitchy",
+      "state" : {
+        "branch" : "master",
+        "revision" : "552b536186ac759e0e85f4936038158505c665fa"
+      }
+    }
+  ],
+  "version" : 3
+}
